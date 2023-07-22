@@ -1,0 +1,8 @@
+
+root@25120852976c:/alx-pre_course/0x01-git/bash# cat > school
+#!/bin/bash
+echo "school"
+echo "ALX"
+echo "ALX"
+root@25120852976c:/alx-pre_course/0x01-git/bash# git add .
+^c
